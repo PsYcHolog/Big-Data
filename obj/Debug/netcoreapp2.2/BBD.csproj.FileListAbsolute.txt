@@ -1,0 +1,11 @@
+C:\Users\PsYcHo\Desktop\Big data\BBD\bin\Debug\netcoreapp2.2\BBD.deps.json
+C:\Users\PsYcHo\Desktop\Big data\BBD\bin\Debug\netcoreapp2.2\BBD.runtimeconfig.json
+C:\Users\PsYcHo\Desktop\Big data\BBD\bin\Debug\netcoreapp2.2\BBD.runtimeconfig.dev.json
+C:\Users\PsYcHo\Desktop\Big data\BBD\bin\Debug\netcoreapp2.2\BBD.dll
+C:\Users\PsYcHo\Desktop\Big data\BBD\bin\Debug\netcoreapp2.2\BBD.pdb
+C:\Users\PsYcHo\Desktop\Big data\BBD\obj\Debug\netcoreapp2.2\BBD.csprojAssemblyReference.cache
+C:\Users\PsYcHo\Desktop\Big data\BBD\obj\Debug\netcoreapp2.2\BBD.csproj.CoreCompileInputs.cache
+C:\Users\PsYcHo\Desktop\Big data\BBD\obj\Debug\netcoreapp2.2\BBD.AssemblyInfoInputs.cache
+C:\Users\PsYcHo\Desktop\Big data\BBD\obj\Debug\netcoreapp2.2\BBD.AssemblyInfo.cs
+C:\Users\PsYcHo\Desktop\Big data\BBD\obj\Debug\netcoreapp2.2\BBD.dll
+C:\Users\PsYcHo\Desktop\Big data\BBD\obj\Debug\netcoreapp2.2\BBD.pdb
