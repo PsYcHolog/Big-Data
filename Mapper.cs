@@ -7,13 +7,13 @@ using System.Collections.Generic;
 
 namespace mapper
 {
-    class Mapper
+    public class Mapper
     {
         string path = "Big Black.data";
         List <Queue> QList;
         int ThreadNum = 8;
         
-        Mapper(){
+        public Mapper(){
             for(int i=0;i<ThreadNum;i++){
                 QList.Add(new Queue());
             }
@@ -27,6 +27,9 @@ namespace mapper
                     while ((line = sr.ReadLine()) != null)
                     {
                         GetEmptiestQueue().Enqueue(line);
+                    }
+                    foreach (var q in QList) {
+                        Console.WriteLine(q.Count);
                     }
                 }
         }
